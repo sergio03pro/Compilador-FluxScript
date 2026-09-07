@@ -1,0 +1,7 @@
+# Carpetas de compilación local (provocan errores en otras computadoras)
+bin/
+obj/
+
+# Archivos temporales y configuración de editor
+.vscode/
+*.user
